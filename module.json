@@ -48,7 +48,7 @@
       "name": "abilities-cleric",
       "label": "Abilities: Cleric",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-cleric.db",
+      "path": "packs/abilities-cleric",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -57,7 +57,7 @@
       "name": "abilities-dwarf",
       "label": "Abilities: Dwarf",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-dwarf.db",
+      "path": "packs/abilities-dwarf",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -66,7 +66,7 @@
       "name": "abilities-elf",
       "label": "Abilities: Elf",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-elf.db",
+      "path": "packs/abilities-elf",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -75,7 +75,7 @@
       "name": "abilities-fighter",
       "label": "Abilities: Fighter",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-fighter.db",
+      "path": "packs/abilities-fighter",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -84,7 +84,7 @@
       "name": "abilities-halfling",
       "label": "Abilities: Halfling",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-halfling.db",
+      "path": "packs/abilities-halfling",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -93,7 +93,7 @@
       "name": "abilities-magic-user",
       "label": "Abilities: Magic-User",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-magic-user.db",
+      "path": "packs/abilities-magic-user",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -102,7 +102,7 @@
       "name": "abilities-thief",
       "label": "Abilities: Thief",
       "package": "classicfantasycompendium",
-      "path": "packs/abilities-thief.db",
+      "path": "packs/abilities-thief",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -111,7 +111,7 @@
       "name": "equipment-adventuring-gear",
       "label": "Equipment: Adventuring Gear",
       "package": "classicfantasycompendium",
-      "path": "packs/equipment-adventuring-gear.db",
+      "path": "packs/equipment-adventuring-gear",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -120,7 +120,7 @@
       "name": "equipment-ammunition",
       "label": "Equipment: Ammunition",
       "package": "classicfantasycompendium",
-      "path": "packs/equipment-ammunition.db",
+      "path": "packs/equipment-ammunition",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -129,7 +129,7 @@
       "name": "equipment-armour",
       "label": "Equipment: Armour",
       "package": "classicfantasycompendium",
-      "path": "packs/equipment-armour.db",
+      "path": "packs/equipment-armour",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -138,7 +138,7 @@
       "name": "equipment-coins",
       "label": "Equipment: Coins",
       "package": "classicfantasycompendium",
-      "path": "packs/equipment-coins.db",
+      "path": "packs/equipment-coins",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -147,7 +147,7 @@
       "name": "equipment-weapons",
       "label": "Equipment: Weapons",
       "package": "classicfantasycompendium",
-      "path": "packs/equipment-weapons.db",
+      "path": "packs/equipment-weapons",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -156,7 +156,7 @@
       "name": "monsters",
       "label": "Monsters",
       "package": "classicfantasycompendium",
-      "path": "packs/monsters.db",
+      "path": "packs/monsters",
       "entity": "Actor",
       "type": "Actor",
       "system": "ose"
@@ -165,7 +165,7 @@
       "name": "spells",
       "label": "Spells",
       "package": "classicfantasycompendium",
-      "path": "packs/spells.db",
+      "path": "packs/spells",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -174,7 +174,7 @@
       "name": "tables-encounters",
       "label": "Tables: Encounters",
       "package": "classicfantasycompendium",
-      "path": "packs/tables-encounters.db",
+      "path": "packs/tables-encounters",
       "entity": "RollTable",
       "type": "RollTable",
       "system": "ose"
@@ -183,7 +183,7 @@
       "name": "tables-items",
       "label": "Tables: Items",
       "package": "classicfantasycompendium",
-      "path": "packs/tables-items.db",
+      "path": "packs/tables-items",
       "entity": "RollTable",
       "type": "RollTable",
       "system": "ose"
@@ -192,7 +192,7 @@
       "name": "treasures",
       "label": "Treasure Tables",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures.db",
+      "path": "packs/treasures",
       "entity": "RollTable",
       "type": "RollTable",
       "system": "ose"
@@ -201,7 +201,7 @@
       "name": "treasures-armour-shields",
       "label": "Treasures: Armour and Shields",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-armour-shields.db",
+      "path": "packs/treasures-armour-shields",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -210,7 +210,7 @@
       "name": "treasures-miscellaneous-items",
       "label": "Treasures: Miscellaneous Items",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-miscellaneous-items.db",
+      "path": "packs/treasures-miscellaneous-items",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -219,7 +219,7 @@
       "name": "treasures-potions",
       "label": "Treasures: Potions",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-potions.db",
+      "path": "packs/treasures-potions",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -228,7 +228,7 @@
       "name": "treasures-rings",
       "label": "Treasures: Rings",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-rings.db",
+      "path": "packs/treasures-rings",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -237,7 +237,7 @@
       "name": "treasures-rods-staffs-wands",
       "label": "Treasures: Rods, Staffs, Wands",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-rods-staffs-wands.db",
+      "path": "packs/treasures-rods-staffs-wands",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -246,7 +246,7 @@
       "name": "treasures-swords",
       "label": "Treasures: Swords",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-swords.db",
+      "path": "packs/treasures-swords",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -255,7 +255,7 @@
       "name": "treasures-weapons",
       "label": "Treasures: Weapons",
       "package": "classicfantasycompendium",
-      "path": "packs/treasures-weapons.db",
+      "path": "packs/treasures-weapons",
       "entity": "Item",
       "type": "Item",
       "system": "ose"
@@ -264,7 +264,7 @@
       "name": "classic-fantasy-srd",
       "label": "Classic Fantasy SRD",
       "package": "classicfantasycompendium",
-      "path": "packs/classic-fantasy-srd.db",
+      "path": "packs/classic-fantasy-srd",
       "entity": "JournalEntry",
       "type": "JournalEntry",
       "system": "ose"
